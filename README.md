@@ -1,1 +1,1 @@
-# matej-soc
+# Simple Socket.IO + Solid.js Chat App
