@@ -1,6 +1,6 @@
 {
-  "name": "vite-template-solid",
-  "version": "0.0.0",
+  "name": "solidjs-chat",
+  "version": "1.0.0",
   "description": "",
   "scripts": {
     "dev": "vite",

@@ -59,7 +59,7 @@ const App: Component = () => {
   return (
     <div class="mx-auto flex h-full w-full flex-col items-center md:w-1/3">
       {/* Header */}
-      <h1 class="py-3 text-2xl font-bold">Live Chat</h1>
+      <h1 class="py-3 text-2xl font-bold">SolidJS Chat</h1>
 
       {/* Message Container */}
       <div id="messages" class="h-full w-full overflow-scroll bg-grey-50">
